@@ -1,2 +1,2 @@
 # cnn_voice_recognition
-A school machine learning project completed with baarnuo
+A small school project to recreate the functions used in an audio recognition neural network.
